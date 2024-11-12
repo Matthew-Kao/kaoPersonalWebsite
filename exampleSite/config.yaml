@@ -251,7 +251,7 @@ params:
       - job: "Backend Engineer"
         company: "Walmart"
         companyUrl: "https://www.walmart.com/"
-        logo: "logos/walmartlogo.jpeg"
+        logo: "logos/walmartlogo2.jpg"
         date: "2024-09-01 - Present"
         info:
           enable: false
