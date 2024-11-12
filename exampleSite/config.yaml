@@ -248,6 +248,19 @@ params:
   experience:
     enable: true
     items:
+      - job: "Backend Engineer"
+        company: "Walmart"
+        companyUrl: "https://www.walmart.com/"
+        logo: "logos/walmartlogo.jpeg"
+        date: "2024-09-01 - Present"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
+          url: "https://www.walmart.com/"
+        content: |
+          During my time at Walmart, I had the privilege of learning from some of the best engineers in the world while contributing to the Generative AI-powered Style Guide project. I designed and deployed over 10 RESTful APIs using Django, enabling automated content validation and standardization. I also developed a comprehensive suite of unit and integration tests with Coverage, achieving over 85% test coverage and conducting thorough API validation using Postman, which collectively improved application reliability metrics during QA phases. Additionally, I documented API workflows, technical specifications, and project insights in Confluence, facilitating efficient knowledge sharing and collaboration among team members, ultimately supporting the seamless execution of the project.
+
       - job: "Web Developer"
         company: "Certified Employment Group"
         companyUrl: "https://www.certifiedemployment.com/job-openings.php"
