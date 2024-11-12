@@ -2,6 +2,9 @@
 publish = "exampleSite/public"
 command = 'cd exampleSite && echo -e "\ngoogleAnalytics: $GOOGLE_ANALYTICS \ndisqusShortname: $DISQUS_SHORTNAME \n" >> config.yaml && hugo --gc --minify --themesDir ../..'
 
+[build.environment]
+NODE_VERSION = "23.2"
+
 [context.production.environment]
 HUGO_VERSION = "0.92.0"
 HUGO_ENV = "production"
