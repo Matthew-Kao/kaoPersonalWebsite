@@ -263,6 +263,10 @@ header .navbar.animate {
 
 /* experience */
 
+#experience {
+    margin-top: 350px;
+  }
+  
 #experience h3 {
     color: var(--text-secondary-color) !important;
 }
