@@ -267,11 +267,6 @@ header .navbar.animate {
     color: var(--text-secondary-color) !important;
 }
 
-/* bener ga kao*/
-#experience .experience-container {
-    margin-top: 350px; /* or padding-top: 350px; */
-  }
-
 #experience * {
     background-color: transparent !important;
 }
