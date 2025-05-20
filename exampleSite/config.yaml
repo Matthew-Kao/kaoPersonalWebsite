@@ -127,8 +127,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Matthew Kao"
-    subtitle: "Graduated from UC Berkeley with a Bachelor's Degree in Computer Science at 19"
-    content: "A young software engineer specializing in web and mobile app development. I am currently looking for new opportunities post-graduation and am open to any opportunities in the field of computer science."
+    subtitle: "I was fortunate enough to graduate from UC Berkeley with a Bachelor's Degree in Computer Science at 19"
+    content: "At 21 years old, I have 2+ years of experience in both Backend and Frontend development. Currently, I am a backend engineer at Walmart working on a GenAI-drive initiative. "
     image: /images/gradpic.jpg
     bottomImage:
       enable: true
