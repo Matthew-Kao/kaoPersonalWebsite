@@ -136,7 +136,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/matthewResume.pdf"
+      url: "/MatthewKaoMay2025Resume.pdf"
       download: false
       newPage: true
     socialLinks:
